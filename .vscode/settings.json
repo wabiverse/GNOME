@@ -1,0 +1,17 @@
+{
+  "files.associations": {
+    "*.glslfx": "glsl",
+    "*.scss": "postcss",
+    "*.manifest.in": "xml",
+    "*.appxmanifest": "xml",
+    "*.xaml.in": "xml",
+    "*.wapproj.in": "xml",
+    "*.wapproj": "xml",
+    "*.vcxproj.in": "xml",
+    "*.sln": "xml",
+    "*.modulemap": "raku",
+    "gnetworkingprivate.h": "c",
+    "gio.h": "c",
+    "glib-object.h": "c"
+  }
+}

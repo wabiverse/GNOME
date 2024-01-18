@@ -1,0 +1,9 @@
+module Gtk {
+  header "gtk/gtk.h"
+  export *
+}
+
+module Gdk {
+  header "gdk/gdk.h"
+  export *
+}

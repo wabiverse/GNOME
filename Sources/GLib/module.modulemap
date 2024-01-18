@@ -1,0 +1,4 @@
+module GLib {
+  header "glib/glib.h"
+  export *
+}
